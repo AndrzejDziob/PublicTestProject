@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Menu
 {
-    public class Class1
+    public class MenuBuilder
     {
     }
 }
